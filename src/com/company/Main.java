@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner=new Scanner(System.in);
         String b=scanner.nextLine();
 
-        method(" nurlan ");
+        method(" zarina ");
     }
       static void method(String a){
           System.out.println(a.toUpperCase());
